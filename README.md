@@ -1,4 +1,4 @@
-# Data scientist test for Nubalu
+# Data scientist test for Nubalū
 
 *Author*: Eduardo Martín Izquierdo
 
